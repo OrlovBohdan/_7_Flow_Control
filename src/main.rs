@@ -8,6 +8,7 @@ mod task7;
 mod task8;
 mod task9;
 mod task10;
+mod task11;
 
 fn main() {
     println!("Hello, world!");
